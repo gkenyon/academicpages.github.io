@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}  
-**WORK EXPERIENCE**  
-***  
+[Download](files\Resume_canva_201912.pdf)  
 **National Museum of American History**                                                                _July 2019 – Present_  
 _Project Assistant_  
 
