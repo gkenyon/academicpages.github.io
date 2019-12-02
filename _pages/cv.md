@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}  
-[Download](files\Resume_canva_201912.pdf)  
+[Download](\files\Resume_canva_201912.pdf)  
 **National Museum of American History**                                                                _July 2019 – Present_  
 _Project Assistant_  
 
